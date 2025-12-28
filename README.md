@@ -308,6 +308,14 @@ Reference provides cheat sheets for the following:
 </details>
 
 <details>
+<summary>Game</summary>
+
+- [Minecraft Java](https://cheatsheets.zip/minecraft-java.html): A comprehensive reference for Minecraft Java Edition (1.20.x) commands.
+- [Minecraft Bedrock](https://cheatsheets.zip/minecraft-bedrock.html): A comprehensive reference for Minecraft Bedrock Edition (1.20.x) commands.
+
+</details>
+
+<details>
 <summary>Other</summary>
 
 - [ASCII Code](https://cheatsheets.zip/ascii-code.html): This cheat sheet is a complete list of ASCII Code Table with
