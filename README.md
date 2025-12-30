@@ -405,7 +405,7 @@ Only the `title` and `intro` fields are required, and the other options can be l
 Stay up-to-date with our project by following us on Twitter! Get all the latest news and updates right in your feed.
 It's the perfect way to stay in the loop.
 
-<a href="https://buymeacoffee.com/cheatsheets.zip"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cheatsheets.zip&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://buymeacoffee.com/cheatsheets.zip"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=cheatsheets.zip&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ## 📃 License
 
