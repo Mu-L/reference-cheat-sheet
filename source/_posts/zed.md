@@ -71,21 +71,27 @@ intro: A visual cheat-sheet for the 50 keyboard shortcuts found in the Zed text 
 
 ### View
 
-| Shortcut           | Action             |
-| ------------------ | ------------------ |
-| `Ctrl` `B`         | Toggle Left Dock   |
-| `Ctrl` `Alt` `B`   | Toggle Right Dock  |
-| `Ctrl` `J`         | Toggle Bottom Dock |
-| `Ctrl` `Alt` `Y`   | Close All Docks    |
-| `Ctrl` `K` `Up`    | Split Up           |
-| `Ctrl` `K` `Down`  | Split Down         |
-| `Ctrl` `K` `Left`  | Split Left         |
-| `Ctrl` `K` `Right` | Split Right        |
-| `Ctrl` `Shift` `E` | Project Panel      |
-| `Ctrl` `Shift` `B` | Outline Panel      |
-| `Ctrl` `Shift` `C` | Collab Panel       |
-| `Ctrl` `` ` ``     | Terminal Panel     |
-| `Ctrl` `Shift` `M` | Diagnostics        |
+| Shortcut                  | Action                    |
+| --------------------------| ------------------------- |
+| `Ctrl` `B`                | Toggle Left Dock          |
+| `Ctrl` `Alt` `B`          | Toggle Right Dock         |
+| `Ctrl` `J`                | Toggle Bottom Dock        |
+| `Ctrl` `Alt` `Y`          | Close All Docks           |
+| `Ctrl` `K` `Up`           | Split Up                  |
+| `Ctrl` `K` `Down`         | Split Down                |
+| `Ctrl` `K` `Left`         | Split Left                |
+| `Ctrl` `K` `Right`        | Split Right               |
+| `Ctrl` `K` `Ctrl` `Up`    | Focus Split Buffer Up     |
+| `Ctrl` `K` `Ctrl` `Down`  | Focus Split Buffer Down   |
+| `Ctrl` `K` `Ctrl` `Left`  | Focus Split Buffer Left   |
+| `Ctrl` `K` `Ctrl` `Right` | Focus Split Buffer Right  |
+| `Ctrl` `Shift` `E`        | Project Panel             |
+| `Ctrl` `Shift` `B`        | Outline Panel             |
+| `Ctrl` `Shift` `C`        | Collab Panel              |
+| `Ctrl` `` ` ``            | Terminal Panel            |
+| `Ctrl` ` ~`               | New Terminal Panel        |
+| `Ctrl` `Shift` `M`        | Diagnostics               |
+| `Ctrl` `Tab`              | Switch Tabs               |
 
 {.shortcuts}
 
