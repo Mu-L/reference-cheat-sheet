@@ -113,7 +113,7 @@ List all the current tapped repositories (taps)
 brew tap
 ```
 
-Tap a formula repository from Github using https for tap https://github.com/user/homebrew-repo
+Tap a formula repository from GitHub using https for tap https://github.com/user/homebrew-repo
 
 ```bash
 brew tap <user/repo>
@@ -133,7 +133,7 @@ brew untap <user/repo>
 
 ### Cask
 
-Tap the Cask repository from Github.
+Tap the Cask repository from GitHub.
 
 ```bash
 brew tap homebrew/cask

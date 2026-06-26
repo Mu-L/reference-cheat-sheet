@@ -16,7 +16,7 @@ plugins:
 
 ### Develop Setup
 
-- Clone Repository [View on Github](https://github.com/Fechin/reference.git)
+- Clone Repository [View on GitHub](https://github.com/Fechin/reference.git)
   ```shell script {.wrap}
   $ git clone https://github.com/Fechin/reference.git
   ```
