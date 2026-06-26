@@ -188,7 +188,7 @@ Reference provides cheat sheets for the following:
 - [Twitter](https://cheatsheets.zip/twitter.html): A visual cheat-sheet for the 26 keyboard shortcuts found on Twitter
 - [Android Studio](https://cheatsheets.zip/android-studio.html): A visual cheat-sheet for the 130 keyboard shortcuts
   found in the Android Studio software
-- [Github](https://cheatsheets.zip/github.html): A visual cheat-sheet for the 80 keyboard shortcuts found on Github.com
+- [GitHub](https://cheatsheets.zip/github.html): A visual cheat-sheet for the 80 keyboard shortcuts found on GitHub.com
 - [Shopify](https://cheatsheets.zip/shopify.html): A visual cheat-sheet for the 50 keyboard shortcuts found on the
   Shopify website
 - [Zoom](https://cheatsheets.zip/zoom.html): A visual cheat-sheet for the 32 keyboard shortcuts found in Zoom. These
@@ -376,7 +376,7 @@ this project a truly resource. Please note that the primary domain for accessing
 For consistency, we encourage you to refer to the [https://cheatsheets.zip/quickref](https://cheatsheets.zip/quickref)
 when creating or editing cheat sheets. To get started with development, follow these steps:
 
-1. Clone Github repo `git clone https://github.com/Fechin/reference.git`
+1. Clone GitHub repo `git clone https://github.com/Fechin/reference.git`
 2. Install `npm` package manager (Read
    [installation guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm))
 3. Run `npm install` in the root folder to install dependencies.

@@ -1,5 +1,5 @@
 ---
-title: Github
+title: GitHub
 date: 2022-11-23 16:23:31.704787
 background: bg-[#17191e]
 label:
@@ -9,7 +9,7 @@ tags:
 categories:
   - Keyboard Shortcuts
 intro: |
-  A visual cheat-sheet for the 80 keyboard shortcuts found on Github.com
+  A visual cheat-sheet for the 80 keyboard shortcuts found on GitHub.com
 ---
 
 ## Keyboard Shortcuts
@@ -173,4 +173,4 @@ intro: |
 
 ## Also see
 
-- [Keyboard shortcuts for Github](https://help.github.com/articles/using-keyboard-shortcuts/) _(help.github.com)_
+- [Keyboard shortcuts for GitHub](https://help.github.com/articles/using-keyboard-shortcuts/) _(help.github.com)_
